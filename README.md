@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TomMontie
+- 👋 Hi, I’m Tom
 - 👀 I’m interested in python, cloud tech, networks
 - 🌱 I’m currently learning python and network security
 - 💞️ I’m looking to collaborate on cool java or python projects
